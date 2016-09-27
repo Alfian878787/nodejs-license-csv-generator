@@ -1,0 +1,19 @@
+{
+  "name": "license-checker-apigee",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "json2csv": "^3.7.0",
+    "license-checker": "^8.0.0"
+  },
+  "bin": {
+    "license-checker-sample": "./bin/license-checker-sample.js"
+  }
+}
